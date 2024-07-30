@@ -1,0 +1,22 @@
+#root{
+    margin: auto;
+    width: 400px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    background-color: black;
+    color: white;
+}
+
+button{
+    margin: 10px;
+}
+
+button:hover{
+    background-color: rgb(82, 80, 80);
+}
